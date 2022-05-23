@@ -1,5 +1,5 @@
 import React from "react";
-
+import AddTask from "./AddTask/AddTask";
 import styles from "./taskApp.module.css";
 
 const TaskApp = () => {
@@ -12,5 +12,5 @@ const TaskApp = () => {
     </div>
   );
 };
-
+  
 export default TaskApp;
